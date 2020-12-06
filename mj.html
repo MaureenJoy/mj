@@ -14,7 +14,7 @@
      <ul class="nav_links">
             <li><a href=" https://my117home.herokuapp.com/" style="color: #000000">HOME</a>  </li>
             <li><a href="product.html"style="color: #000000">PRODUCTS</a>  </li>
-            <li><a href="about.html" style="color: #FFFFFF">ABOUT</a>  </li>
+            <li><a href="https://my117about.herokuapp.com/" style="color: #FFFFFF">ABOUT</a>  </li>
             <li><a href="contact.html" style="color: #FFFFFF">CONTACT US</a>    </li>
           </ul>
 </nav>
