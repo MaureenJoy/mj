@@ -12,7 +12,7 @@
     <img class="logo" src="logo.png" alt="logo" >
     <nav class="navbar">
      <ul class="nav_links">
-            <li><a href="home.html" style="color: #000000">HOME</a>  </li>
+            <li><a href=" https://mj117home.herokuapp.com/" style="color: #000000">HOME</a>  </li>
             <li><a href="product.html"style="color: #000000">PRODUCTS</a>  </li>
             <li><a href="about.html" style="color: #FFFFFF">ABOUT</a>  </li>
             <li><a href="contact.html" style="color: #FFFFFF">CONTACT US</a>    </li>
